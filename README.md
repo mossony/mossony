@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mossony
 - 👀 I’m interested in coding fun stuff
-- 🐶 I'm also a Dogecoin hodler
+- 🐶 I'm also (not) a Dogecoin hodler
 - 🌱 I’m currently studying Information Security
 
 
